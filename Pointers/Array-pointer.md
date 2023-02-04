@@ -263,4 +263,5 @@ Output:
 ```
 You can see that every element has its own memory address.
 
-I think that it will be enough for this blog. Part 2 will be shared, stay tuned
+I think that it will be enough for this blog. Part 2 will be shared,
+.Stay tuned
